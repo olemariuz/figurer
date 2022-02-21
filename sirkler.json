@@ -1,10 +1,10 @@
 {
      "sirkler": [
                {"x": 10, "y": 200, "radius": 10, "farge": "red"},
-               {"x": 70, "y": 200, "radius": 15, "farge": "green"},
-               {"x": 130, "y": 200, "radius": 20, "farge": "blue"},
-               {"x": 190, "y": 200, "radius": 25, "farge": "pink"},
-               {"x": 250, "y": 200, "radius": 30, "farge": "yellow"}
+               {"x": 70, "y": 200, "radius": 12, "farge": "green"},
+               {"x": 130, "y": 200, "radius": 15, "farge": "blue"},
+               {"x": 190, "y": 200, "radius": 20, "farge": "pink"},
+               {"x": 250, "y": 200, "radius": 25, "farge": "yellow"}
     ],
     "firkanter": [
                {"bredde": 10, "høyde": 10, "x": 10, "y": 10, "farge": "red"},
