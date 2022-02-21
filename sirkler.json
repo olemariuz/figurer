@@ -7,10 +7,11 @@
                {"x": 20, "y": 20, "radius": 10, "farge": "red"}
     ],
     "firkanter": [
-               {"bredde": 10, "høyde": 10, "x": 5, "farge": "rød"},
-               {"bredde": 10, "høyde": 10, "x": 5, "farge": "rød"},
-               {"bredde": 10, "høyde": 10, "x": 5, "farge": "rød"},
-               {"bredde": 10, "høyde": 10, "x": 5, "farge": "rød"},
-               {"bredde": 10, "høyde": 10, "x": 5, "farge": "rød"}
+               {"bredde": 10, "høyde": 10, "x": 5, "y": 10, "farge": "red"},
+               {"bredde": 10, "høyde": 10, "x": 5, "y": 10, "farge": "red"},
+               {"bredde": 10, "høyde": 10, "x": 5, "y": 10, "farge": "red"},
+               {"bredde": 10, "høyde": 10, "x": 5, "y": 10, "farge": "red"},
+               {"bredde": 10, "høyde": 10, "x": 5, "y": 10, "farge": "red"}
+              
 ]
 }
