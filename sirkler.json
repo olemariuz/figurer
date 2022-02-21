@@ -1,17 +1,17 @@
 {
      "sirkler": [
-               {"x": 10, "y": 10, "radius": 10, "farge": "red"},
-               {"x": 20, "y": 20, "radius": 20, "farge": "green"},
-               {"x": 30, "y": 30, "radius": 30, "farge": "blue"},
-               {"x": 40, "y": 40, "radius": 40, "farge": "pink"},
-               {"x": 50, "y": 50, "radius": 50, "farge": "yellow"}
+               {"x": 100, "y": 20, "radius": 10, "farge": "red"},
+               {"x": 200, "y": 20, "radius": 20, "farge": "green"},
+               {"x": 300, "y": 20, "radius": 30, "farge": "blue"},
+               {"x": 400, "y": 20, "radius": 40, "farge": "pink"},
+               {"x": 500, "y": 20, "radius": 50, "farge": "yellow"}
     ],
     "firkanter": [
                {"bredde": 10, "høyde": 10, "x": 100, "y": 100, "farge": "red"},
-               {"bredde": 20, "høyde": 20, "x": 150, "y": 150, "farge": "green"},
-               {"bredde": 30, "høyde": 30, "x": 200, "y": 200, "farge": "blue"},
-               {"bredde": 40, "høyde": 40, "x": 300, "y": 300, "farge": "pink"},
-               {"bredde": 50, "høyde": 50, "x": 400, "y": 400, "farge": "yellow"}
+               {"bredde": 20, "høyde": 20, "x": 200, "y": 100, "farge": "green"},
+               {"bredde": 30, "høyde": 30, "x": 300, "y": 100, "farge": "blue"},
+               {"bredde": 40, "høyde": 40, "x": 400, "y": 100, "farge": "pink"},
+               {"bredde": 50, "høyde": 50, "x": 500, "y": 100, "farge": "yellow"}
               
 ]
 }
